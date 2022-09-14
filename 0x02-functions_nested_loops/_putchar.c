@@ -1,13 +1,19 @@
-#include <unistd.h>
-
+#include "main.h"
 /**
- * _putchar - writes the character c to stdout
- * @c: The character to print
+ * print_alphabet_x10 - function to print abc 10 times
  *
- * Return: On success 1.
- * On error, -1 is returned, and errno is set appropriately.
+ * Return: 0
  */
-int _putchar(char c)
+void print_alphabet_x10(void)
 {
-	return (write(1, &c, 1));
+	char c, i;
+
+	for (i = 0; i <= 9; i++)
+	{
+		for (c = 'a'; c <= 'z'; c++)
+		{
+			_putchar(c);
+		}
+		_putchar('\n');
+	}
 }

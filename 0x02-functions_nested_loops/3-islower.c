@@ -1,13 +1,16 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
- * _islower - check for lower case letter
- * @c : character to check the case
- * Return:0 or 1
+ * print_alphabet - function to print abc
+ *
+ * Return: 0
  */
-
-int _islower(int c)
+void print_alphabet(void)
 {
-	return (c >= 97 && c <= 122);
+	char c;
 
+	for (c = 'a'; c <= 'z'; c++)
+	{
+		_putchar(c);
+	}
+_putchar('\n');
 }
