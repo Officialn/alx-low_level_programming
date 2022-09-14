@@ -21,4 +21,3 @@ sum += n1;
 printf("%ld\n", sum);
 return (0);
 }
-
