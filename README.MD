@@ -33,7 +33,7 @@ working in the C language. I update this repo with my learning progresses with h
 - I am on my way to be the best software engineer that I  can possibly  be!!
 
 ## Author 
-+ [Nizam Mohammed]
++ [Nizam Mohamme](linktr.ee/nizam_mohammed)
 
 ---
 
