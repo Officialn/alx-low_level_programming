@@ -1,16 +1,20 @@
-#include "main.h"
+#include "holberton.h"
+
 /**
- *print_alphabet - function to print abc
- *
- * Return: 0 
+ * print_alphabet - Entry point
+ * Return:0
  */
+
 void print_alphabet(void)
 {
-             char
+	char c = 'a';
 
-             for (c = 'a'; c<=  'z'; c++)
-             {
-			_putchar(c);
-             }
-_putchar('\n');
+	while (c <= 'z')
+	{
+		_putchar(c);
+		c++;
+
+	}
+	_putchar('\n');
+
 }
