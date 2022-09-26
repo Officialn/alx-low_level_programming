@@ -3,7 +3,7 @@
                                                                                                                                         
 /**                                                                                                                                     
  * File: main.h                                                                                                                    
- * Auth: sam tech(Samuel birhanu)                                                                                                             
+ * Auth: Nizam                                                                                                             
  * Desc: Header file containing prototypes for all functions                                                                            
  *       used in the 0x06. C - More pointers, arrays and strings directory.
  */                                                                                                                                     

@@ -4,7 +4,7 @@
 /**
  * File: MAIN_H
  * Auth: Nizam
- * Desc: Header file containing prototypes for all functions
+ * Description: Header file containing prototypes for all functions
  *       used in the 0x07-pointers_arrays_strings directory.
  */
 
