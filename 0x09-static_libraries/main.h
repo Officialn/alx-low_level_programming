@@ -1,9 +1,9 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN_H
+#define MAIN_H
 
 /*
- * File: holberton.h
- * Auth: Firdaus
+ * File: main.h
+ * Auth: Nizam
  * Desc: Header file containing the prototypes of all functions
  *       included in the static library libholberton.a.
  */
@@ -30,3 +30,4 @@ char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
 #endif
+
