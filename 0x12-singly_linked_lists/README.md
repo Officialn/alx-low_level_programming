@@ -61,7 +61,7 @@ types and functions written for the project.
   that prints `Hello, Holberton` followed by a new line using only the
   `printf` function witout interrupts.
 ---
-**Author: Firdaus H. Salim**
+**Author: Nizam~. moh**
 #
-**Date: Thursday 29th July 2021**
+**Date: Thursday 21th oct 2022**
 
